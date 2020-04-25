@@ -1,2 +1,1 @@
-# react-redux-ecommerce
-online store created using react + redux
+Online store with payment functionality, utilizing react and redux for state management.

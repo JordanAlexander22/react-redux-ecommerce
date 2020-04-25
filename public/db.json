@@ -1,0 +1,11 @@
+{
+    "products": [
+        {
+            "title": "Baker skate deck",
+            "price": 50,
+            "id": 1,
+            "sku": 98798,
+            "description": ""
+        }
+    ]
+}
