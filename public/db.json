@@ -1,10 +1,39 @@
 {
     "products": [
         {
-            "title": "Baker skate deck",
-            "price": 50,
             "id": 1,
             "sku": 98798,
+            "title": "Baker skate deck",
+            "price": 50,
+            "availableSizes": ["8.0", "8.25", "8.5"],
+            "description": ""
+        },
+
+        {
+            "id": 2,
+            "sku": 98898,
+            "title": "Santa cruz skate deck",
+            "price": 50,
+            "availableSizes": ["8.0", "8.25", "8.5"],
+            "description": ""
+
+        },
+
+        {
+            "id": 3,
+            "sku": 98998,
+            "title": "Anti-hero skate deck",
+            "price": 50,
+            "availableSizes": ["8.0", "8.25", "8.5"],
+            "description": ""
+        },
+
+        {
+            "id": 4,
+            "sku": 99798,
+            "title": "Baker skate deck",
+            "price": 50,
+            "availableSizes": ["8.0", "8.25", "8.5"],
             "description": ""
         }
     ]
