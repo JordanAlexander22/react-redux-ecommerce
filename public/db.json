@@ -31,7 +31,16 @@
         {
             "id": 4,
             "sku": 99798,
-            "title": "Baker skate deck",
+            "title": "Alien Workshop skate deck",
+            "price": 50,
+            "availableSizes": ["8.0", "8.25", "8.5"],
+            "description": ""
+        },
+
+        {
+            "id": 5,
+            "sku": 100798,
+            "title": "Real skate deck",
             "price": 50,
             "availableSizes": ["8.0", "8.25", "8.5"],
             "description": ""
